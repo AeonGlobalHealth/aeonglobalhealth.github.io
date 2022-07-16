@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-View [DIA-Core README.md](https://github.com/AeonGlobalHealth/aeonglobalhealth.github.io/dia-core_README.md)
+View [DIA-Core README.md](https://github.com/AeonGlobalHealth/aeonglobalhealth.github.io/docs/dia-core.md)
 
 You can use the [editor on GitHub](https://github.com/AeonGlobalHealth/aeonglobalhealth.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
